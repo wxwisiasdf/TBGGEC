@@ -1,0 +1,11 @@
+*
+!.gitignore
+!*.c
+!*.h
+!*.sh
+!*.asm
+!.txt
+!IMG0.png
+!IMG1.png
+!*.md
+!font.png
